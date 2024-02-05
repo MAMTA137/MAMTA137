@@ -1,5 +1,5 @@
 # 💫 About Me:
--I'm currently learning React.<br>-Into Frontend Development.<br>-How to reach me mamtag3s89@gmail.com.
+-I'm currently exploring more new technical stuffs.<br>-Into Development.<br>-How to reach me mamtag3s89@gmail.com.
 
 ## 📋Portfolio: 
 [https://mamtag.vercel.app/](https://mamtag.vercel.app/)
